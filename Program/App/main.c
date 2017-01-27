@@ -1,6 +1,6 @@
-/* Main.c: Application program for Women Security System */
-/* Written By: Prashanth BS (info@bspembed.com */
-/* Demo at :									*/
+/* Main.c: Application program for Women Security System 	*/
+/* Written By: Prashanth BS (info@bspembed.com)			 	*/
+/* Demo at : https://www.youtube.com/watch?v=v2JwR3oHc3A	*/
  
 #include "main.h"
 
