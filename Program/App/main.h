@@ -3,8 +3,8 @@
 
 #include "includes.h"
 
-#define PPhNum				"9980237552"
-#define FPhNum				"9980237552"
+#define PPhNum				"YOUR_PH_NUMBER"
+#define FPhNum				"YOUR_PH_NUMBER"
 
 #define INTDDR				DDRD
 #define INTPORT				PORTD
